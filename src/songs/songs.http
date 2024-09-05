@@ -1,0 +1,11 @@
+###
+GET http://localhost:3000/songs
+Content-Type: application/json
+
+###
+GET http://localhost:3000/songs/1
+Content-Type: application/json
+
+###
+POST http://localhost:3000/songs
+Content-Type: application/json
